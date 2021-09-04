@@ -1,6 +1,9 @@
 # SerumCrypterFUD
 Powerfull Undetected Crypter
 
+[ DO NOT SCAN ON VIRUSTOTAL ]
+Only Scan On : AntiScan.me And https://aegistools.pw/ui/scanner#/
+
 Hello!
 
 
