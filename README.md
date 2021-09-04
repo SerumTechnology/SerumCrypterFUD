@@ -16,8 +16,6 @@ MSBuild Tools Link : https://www.microsoft.com/en-us/download/details.aspx?id=48
 Tutorial How to Use Serum Crypter :
 
 
-//Note If You See, Payload.exe, Don't Worry It is not Virus, It is Anti-Debugger, To Protect Our Crypter From Cracking/Decompiling
-
 1.Run Serum Crypter.exe
 2.Select Your File/Virus, It Will Convert It To Base64 And will display on TextBox, Press CTRL+A Copy All Base64 Code
 3.Make New Txt on your desktop, Paste inside All Base64 Code
