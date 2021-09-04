@@ -4,6 +4,8 @@ Powerfull Undetected Crypter
 [ DO NOT SCAN ON VIRUSTOTAL ]
 Only Scan On : AntiScan.me And https://aegistools.pw/ui/scanner#/
 
+DISCORD IF You Need Help : StevenWeed#0001
+
 Hello!
 
 
